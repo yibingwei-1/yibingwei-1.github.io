@@ -15,7 +15,7 @@ Publications
 
 **Towards Latent Masked Image Modeling for Self-Supervised
 Visual Representation Learning**  
-**Yibing Wei**, Abhinav Gupta, edro Morgado  
+**Yibing Wei**, Abhinav Gupta, Pedro Morgado  
 *（Under submission）*
 
 **Multispectral Masked
