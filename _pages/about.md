@@ -31,7 +31,7 @@ Ellen Novoseller, **Yibing Wei**, Yanan Sui, Yisong Yue, and Joel W
 
 **Deep Inductive Matrix Completion
 for Biomedical Interaction Prediction**  
-Haohan Wang*, **Yibing Wei***, Mengxin Cao*, Min Xu, Wei Wu, and Eric Xing  
+Haohan Wang, **Yibing Wei**, Mengxin Cao, Min Xu, Wei Wu, and Eric Xing  
 *IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2019*  
 [PDF](https://ieeexplore.ieee.org/document/8983275)
 
