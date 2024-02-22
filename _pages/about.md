@@ -25,7 +25,7 @@ Autoencoder for Remote Sensing Representation Learning**
 
 **Dueling Posterior Sampling for
 Preference-Based Reinforcement Learning**    
-Ellen Novoseller, **Yibing Wei**, Yanan Sui, Yisong Yue, and Joel W Burdick
+Ellen Novoseller, **Yibing Wei**, Yanan Sui, Yisong Yue, and Joel W Burdick  
 *Conference on Uncertainty in Artificial Intelligence (**UAI**), 2020*  
 [PDF](https://arxiv.org/abs/1908.01289) [Code](https://github.com/ernovoseller/DuelingPosteriorSampling)
 
