@@ -16,7 +16,7 @@ Publications
 **Towards Latent Masked Image Modeling for Self-Supervised
 Visual Representation Learning**  
 **Yibing Wei**, Abhinav Gupta, Pedro Morgado  
-*（Under submission）*
+*European Conference on Computer Vision (**ECCV**), 2024*
 
 **Multispectral Masked
 Autoencoder for Remote Sensing Representation Learning**  
