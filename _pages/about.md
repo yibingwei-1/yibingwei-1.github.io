@@ -41,7 +41,7 @@ Visual Representation Learning</h3>
   <div>
     <a href="">[paper]</a>
     <a href="https://github.com/yibingwei-1/LatentMIM">[code]</a>
-    <a href="https://github.com/yibingwei-1/projects/lmim/lmim.html">[project page]</a>
+    <a href="https://yibingwei-1.github.io/projects/lmim/lmim.html">[project page]</a>
   </div>  
 </td>
 </tr>    
