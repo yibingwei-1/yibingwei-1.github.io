@@ -73,7 +73,7 @@ Preference-Based Reinforcement Learning</h3>
   <em>UAI</em>, 2020
   <br>
   <div>
-    <a href="https://arxiv.org/abs/1908.01289">[PDF]</a> <a href="https://github.com/ernovoseller/DuelingPosteriorSampling">[Code]</a>
+    <a href="https://arxiv.org/abs/1908.01289">[paper]</a> <a href="https://github.com/ernovoseller/DuelingPosteriorSampling">[code]</a>
   </div>  
 </td>
 </tr>    
@@ -89,7 +89,7 @@ for Biomedical Interaction Prediction</h3>
   <em>BIBM</em>, 2019
   <br>
   <div>
-    <a href="https://ieeexplore.ieee.org/document/8983275">[PDF]</a>
+    <a href="https://ieeexplore.ieee.org/document/8983275">[paper]</a>
   </div>  
 </td>
 </tr>
