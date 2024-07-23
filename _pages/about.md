@@ -39,7 +39,7 @@ Visual Representation Learning</h3>
   <em>ECCV</em>, 2024
   <br>
   <div>
-    <a href="">[paper]</a>
+    <a href="https://arxiv.org/pdf/2407.15837">[paper]</a>
     <a href="https://github.com/yibingwei-1/LatentMIM">[code]</a>
     <a href="https://yibingwei-1.github.io/projects/lmim/lmim.html">[project page]</a>
   </div>  
