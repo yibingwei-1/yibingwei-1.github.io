@@ -29,6 +29,21 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/FASTCL.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Accelerating Augmentation Invariance Pretraining</h3>
+  <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>,<a href="https://cewu.github.io/">Cheng-En Wu</a>, <b>Yibing Wei</b>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
+  <br>
+  <em>NeurIPS</em>, 2024
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2410.22364">[paper]</a>
+  </div>  
+</td>
+</tr>
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/latentMIM.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
