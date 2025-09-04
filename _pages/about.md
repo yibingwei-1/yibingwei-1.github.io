@@ -18,7 +18,7 @@ I work on self-supervised learning, multimodal retrieval and large vision–lang
 
 **[June 2025]** Our paper on [TrackVerse](https://github.com/MMPLab/TrackVerse), an object-centric video dataset for SSL, accepted at ICCV 2025. <br/> 
 **[May 2025]** Joined Adobe Firefly as an ML Research Intern! <br/> 
-**[Feb 2025]** Our paper on [Efficient curricula for MIM models](https://arxiv.org/abs/2411.10685) accepted at CVPR 2025. <br/> 
+**[Feb 2025]** Our paper on [Accelerating the pretraining of vision transformers accepted](https://arxiv.org/abs/2410.22364) at NeurIPS 2024. <br/> 
 **[July 2024]** Our paper on [Latent MIM](https://github.com/yibingwei-1/LatentMIM) accepted by ECCV 2024. <br/> 
 
 
@@ -48,21 +48,6 @@ table, td, th, tr {
 </tr>
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/FASTCL.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Accelerating Augmentation Invariance Pretraining</h3>
-  <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>,<a href="https://cewu.github.io/">Cheng-En Wu</a>, <b>Yibing Wei</b>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
-  <br>
-  <em>NeurIPS</em>, 2024
-  <br>
-  <div>
-    <a href="https://arxiv.org/abs/2410.22364">[paper]</a>
-  </div>  
-</td>
-</tr>
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/latentMIM.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -78,7 +63,22 @@ Visual Representation Learning</h3>
     <a href="https://yibingwei-1.github.io/projects/lmim/lmim.html">[project page]</a>
   </div>  
 </td>
-</tr>    
+</tr>  
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/FASTCL.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Accelerating Augmentation Invariance Pretraining</h3>
+  <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>,<a href="https://cewu.github.io/">Cheng-En Wu</a>, <b>Yibing Wei</b>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
+  <br>
+  <em>NeurIPS</em>, 2024
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2410.22364">[paper]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;horizontal-align:middle">
   <img src="../images/rsmmae.png" height="75%" width="75%" style="border-style: none">
