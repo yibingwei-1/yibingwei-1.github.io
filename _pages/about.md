@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Computer Sciences at [University of Wisconsin Madison](https://www.cs.wisc.edu), advised by Prof. [Pedro Morgado](https://pedro-morgado.github.io). I obtained my Master's degree in Electrical Engineering from [Caltech](https://www.ee.caltech.edu), advised by Prof. [Yisong Yue](http://www.yisongyue.com) and Prof. [Pietro Perona](https://www.eas.caltech.edu/people/perona). 
+I am a final-year PhD candidate in the Department of Computer Sciences at [University of Wisconsin Madison](https://www.cs.wisc.edu), advised by Prof. [Pedro Morgado](https://pedro-morgado.github.io). I obtained my Master's degree in Electrical Engineering from [Caltech](https://www.ee.caltech.edu), advised by Prof. [Yisong Yue](http://www.yisongyue.com) and Prof. [Pietro Perona](https://www.eas.caltech.edu/people/perona). 
 
-My research has been primarily focused on visual representation learning without human supervison. 
+I work on self-supervised learning, multimodal retrieval and large vision–language models,  with an emphasis on representation learning at different level from semantics to localized, fine-grained, compositional feature for image/video/VLM.
+
+**I am actively looking for Research Scientist / Applied Scientist / Research Engineer positions starting in 2026.**
 
 <h2>News</h2>
 
-**[July 2024]** Paper on [Latent MIM](https://github.com/yibingwei-1/LatentMIM) accepted by ECCV 2024. <br/> 
-**[July 2024]** We've released [TrackVerse](https://github.com/MMPLab/TrackVerse), a large-scale video dataset. <br/> 
+**[June 2025]** Our paper on [TrackVerse](https://github.com/MMPLab/TrackVerse), an object-centric video dataset for SSL, accepted at ICCV 2025. <br/> 
+**[May 2025]** Joined Adobe Firefly as an ML Research Intern. <br/> 
+**[Feb 2025]** Our paper on [Efficient curricula for MIM models](https://arxiv.org/abs/2411.10685) accepted at CVPR 2025. <br/> 
+**[July 2024]** Our paper on [Latent MIM](https://github.com/yibingwei-1/LatentMIM) accepted by ECCV 2024. <br/> 
 
 
 <style>
@@ -27,6 +31,21 @@ table, td, th, tr {
 
 <h2>Publications</h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/trackverse.gif" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>TrackVerse: A Large-Scale Object-Centric Video Dataset for Image-Level Representation Learning</h3>
+  <b>Yibing Wei</b>, <a href="https://www.samdchurch.com">Samuel Church, <a href="https://www.linkedin.com/in/victorsuciu/"> Victor Suciu, <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>, <a href="https://cewu.github.io/">Cheng-En Wu</a>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
+  <br>
+  <em>ICCV</em>, 2025
+  <br>
+  <div>
+    <a href="https://github.com/MMPLab/TrackVerse">[dataset]</a>
+  </div>  
+</td>
+</tr>
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/FASTCL.png" height="100%" width="100%" style="border-style: none">
