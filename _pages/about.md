@@ -17,7 +17,7 @@ I work on self-supervised learning, multimodal retrieval and large vision–lang
 <h2>News</h2>
 
 **[June 2025]** Our paper on [TrackVerse](https://github.com/MMPLab/TrackVerse), an object-centric video dataset for SSL, accepted at ICCV 2025. <br/> 
-**[May 2025]** Joined Adobe Firefly as an ML Research Intern. <br/> 
+**[May 2025]** Joined Adobe Firefly as an ML Research Intern! <br/> 
 **[Feb 2025]** Our paper on [Efficient curricula for MIM models](https://arxiv.org/abs/2411.10685) accepted at CVPR 2025. <br/> 
 **[July 2024]** Our paper on [Latent MIM](https://github.com/yibingwei-1/LatentMIM) accepted by ECCV 2024. <br/> 
 
@@ -37,7 +37,7 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>TrackVerse: A Large-Scale Object-Centric Video Dataset for Image-Level Representation Learning</h3>
-  <b>Yibing Wei</b>, <a href="https://www.samdchurch.com">Samuel Church, <a href="https://www.linkedin.com/in/victorsuciu/"> Victor Suciu, <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>, <a href="https://cewu.github.io/">Cheng-En Wu</a>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
+  <b>Yibing Wei</b>, <a href="https://www.samdchurch.com">Samuel Church</a>, <a href="https://www.linkedin.com/in/victorsuciu/"> Victor Suciu</a>, <a href="https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en">Jinhong Lin</a>, <a href="https://cewu.github.io/">Cheng-En Wu</a>,  <a href="https://pedro-morgado.github.io/">Pedro Morgado</a>
   <br>
   <em>ICCV</em>, 2025
   <br>
